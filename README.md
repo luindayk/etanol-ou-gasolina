@@ -1,19 +1,23 @@
-# Etanol ou Gasolina
+# Etanol ou Gasolina?
 
-Passos para rodar o app
+## Passos para rodar o app
 
-1 - Baixar as dependências:
+---
 
-yarn install
+### 1 - Baixar as dependências:
 
-ou
-
-npm install
-
-2 - Após a instalação das dependências, rode o app com:
-
-yarn android
+> `yarn install`
 
 ou
 
-npm run android
+> `npm install`
+
+---
+
+### 2 - Após a instalação das dependências, rode o app com:
+
+> `yarn android`
+
+ou
+
+> `npm run android`
