@@ -14,7 +14,7 @@ function Routes() {
                     headerTitle: 'Etanol ou Gasolina?',
                     headerTintColor: '#ffffff',
                     headerStyle: {
-                        backgroundColor: '#2b7cd7',
+                        backgroundColor: '#598BFF',
                     }
                 }} name="Home" component={Home} />
             </Stack.Navigator>
